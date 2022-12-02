@@ -82,7 +82,7 @@ h2{
 }
 
 .boxes1{
-    background: url(crosy.JPG);
+    background: url(./image/crosy.JPG);
     width: 250px;
     height: 300px;
     border-radius: 15px;
@@ -96,7 +96,7 @@ h2{
 }
 
 .boxes2{
-    background: url(iphone14.JPG);
+    background: url(./image/iPhone14.JPG);
     width: 250px;
     height: 300px;
     border-radius: 15px;
@@ -111,7 +111,7 @@ h2{
 }
 
 .boxes3{
-    background: url(home.JPG);
+    background: url(./image/home.JPG);
     width: 250px;
     height: 300px;
     border-radius: 15px;
@@ -125,7 +125,7 @@ h2{
 } 
 
 .boxes4{
-    background: url(children.JPG);
+    background: url(./image/children.JPG);
     width: 250px;
     height: 300px;
     border-radius: 15px;
@@ -139,7 +139,7 @@ h2{
 }
 
 .boxes5{
-    background: url(hugo.JPG);
+    background: url(./image/hugo.JPG);
     width: 250px;
     height: 300px;
     border-radius: 15px;
@@ -179,7 +179,7 @@ h2{
 }
 
 .boxes6{
-    background: url(tv.JPG);
+    background: url(./image/tv.JPG);
     width: 250px;
     height: 300px;
     border-radius: 15px;
@@ -201,7 +201,7 @@ h2{
     top: 0;
     left: 0;
     transform: translate(-50%, -50%);
-    background: url(logonike.JPG);
+    background: url(./image/logonike.JPG);
     background-position: center;
     background-size: cover;
 }
@@ -215,7 +215,7 @@ h2{
     top: 0;
     left: 0;
     transform: translate(-50%, -50%);
-    background: url(logoas.JPG);
+    background: url(./image/logoas.JPG);
     background-position: center;
     background-size: cover;
     margin: 0 auto;
@@ -230,7 +230,7 @@ h2{
     top: 0;
     left: 0;
     transform: translate(-50%, -50%);
-    background: url(logoeh.JPG);
+    background: url(./image/logoeh.JPG);
     background-position: center;
     background-size: cover;
     margin: 0 auto;
@@ -245,7 +245,7 @@ h2{
     top: 0;
     left: 0;
     transform: translate(-50%, -50%);
-    background: url(logozr.JPG);
+    background: url(./image/logozr.JPG);
     background-position: center;
     background-size: contain;
     margin: 0 auto;
@@ -260,7 +260,7 @@ h2{
     top: 0;
     left: 0;
     transform: translate(-50%, -50%);
-    background: url(logohb.JPG);
+    background: url(./image/logohb.JPG);
     background-position: center;
     background-size: contain;
     margin: 0 auto;
@@ -275,7 +275,7 @@ h2{
     top: 0;
     left: 0;
     transform: translate(-50%, -50%);
-    background: url(logosp.JPG);
+    background: url(./image/logosp.JPG);
     background-position: center;
     background-size: contain;
     margin: 0 auto;
